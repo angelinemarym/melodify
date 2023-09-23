@@ -4,7 +4,7 @@ import React from 'react'
 export default function Logo() {
   return (
     <Link href="/" className="block" aria-label="Melodify">
-        <svg className="w-10 h-10 fill-current text-purple-600" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+        <svg className="w-8 h-8 fill-current text-purple-600" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
         <path d="M0.93,24.3c0,0,0.48-0.53,0.81-0.69s1.21-0.45,1.21-0.45l0.95-0.08l0.84,0.18l0.73,0.23L5.39,4.25l19.98-3.26
             v10.07c0,0,0.02,0.34,0.32,0.35c0.31,0.01,5.9-0.01,5.9-0.01v1.69l-6.07-0.04c0,0-0.52-0.11-0.87-0.4s-0.74-0.99-0.74-0.99
             s-0.16-0.3-0.18-0.78c-0.02-0.48,0.01-7.63,0.01-7.63l-0.78,0.11L23,11.4c0,0,0.02,0.16,0.12,0.48c0.11,0.32,0.43,0.81,0.43,0.81
