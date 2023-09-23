@@ -28,7 +28,7 @@ export default function ModalVideo({
   const videoRef = useRef<HTMLVideoElement>(null)
 
   return (
-    <div>
+    <div id='tutorial'>
 
       {/* Video thumbnail */}
       <div>
