@@ -19,13 +19,13 @@ export default function Header() {
               <li>
                 <Link
                   href="#tutorial"
-                  className="btn-sm text-white bg-purple-600 hover:bg-purple-700 ml-3"
+                  className="btn-sm text-white bg-purple-600 hover:bg-purple-700 ml-3 rounded-lg"
                 >
                   Tutorial
                 </Link>
               </li>
               <li>
-                <Link href="#samples" className="font-medium text-purple-600 hover:text-gray-200 px-4 py-3 flex items-center transition duration-150 ease-in-out">
+                <Link href="#samples" className="font-medium rounded-lg text-purple-600 hover:text-gray-200 px-4 py-3 flex items-center transition duration-150 ease-in-out">
                   Samples
                 </Link>
               </li>

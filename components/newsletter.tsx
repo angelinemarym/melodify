@@ -4,7 +4,7 @@ export default function Newsletter() {
       <div className="max-w-6xl mx-auto px-4 sm:px-6">
 
         {/* CTA box */}
-        <div className="relative bg-purple-600 py-10 px-8 md:py-16 md:px-12" data-aos="fade-up">
+        <div className="relative rounded-lg bg-purple-600 py-10 px-8 md:py-16 md:px-12" data-aos="fade-up">
 
           {/* Background illustration */}
           <div className="absolute right-0 top-0 -ml-40 pointer-events-none" aria-hidden="true">
@@ -30,7 +30,7 @@ export default function Newsletter() {
             {/* CTA form */}
             <form className="w-full lg:w-2/5">
               <div className="flex flex-col sm:flex-row justify-center max-w-xs mx-auto sm:max-w-md lg:max-w-none">
-                <a className="btn text-purple-600 bg-purple-100 hover:bg-white shadow" href="https://forms.gle/8tAHxNqNTo7dKdSX6" target="_blank">Generate your song</a>
+                <a className="rounded-lg btn text-purple-600 bg-purple-100 hover:bg-white shadow" href="https://forms.gle/8tAHxNqNTo7dKdSX6" target="_blank">Generate your song</a>
               </div>
             </form>
 
