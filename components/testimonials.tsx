@@ -32,7 +32,7 @@ export default function Testimonials() {
               <blockquote className="text-lg text-gray-400 grow pb-5">President Joko Widodo sang Qing Fei De Yi (by Harlem Yu) from Meteor Garden.</blockquote>
               <audio
                   controls
-                  src="/audio/Qing Fei De Yi (Jokowi Sakit Tenggorokan Ver).mp3">
+                  src="/audio/Qing Fei De Yi (Jokowi Ver).mp3">
                   Your browser does not support the
                   <code>audio</code> element.
               </audio>
