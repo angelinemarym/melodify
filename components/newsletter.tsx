@@ -23,14 +23,14 @@ export default function Newsletter() {
 
             {/* CTA content */}
             <div className="mb-6 lg:mr-16 lg:mb-0 text-center lg:text-left lg:w-3/5">
-              <h3 className="h3 text-white mb-2">Start generating your song</h3>
-              <p className="text-purple-200 text-lg">Create your own song by clicking the button and filling in the form.</p>
+              <h3 className="h3 text-white mb-2">We want to hear your feedback!</h3>
+              <p className="text-purple-200 text-lg">Help us to improve Melodify service by filling the feedback form.</p>
             </div>
 
             {/* CTA form */}
             <form className="w-full lg:w-2/5">
               <div className="flex flex-col sm:flex-row justify-center max-w-xs mx-auto sm:max-w-md lg:max-w-none">
-                <a className="rounded-lg btn text-purple-600 bg-purple-100 hover:bg-white shadow" href="https://forms.gle/8tAHxNqNTo7dKdSX6" target="_blank">Generate your song</a>
+                <a className="rounded-lg btn text-purple-600 bg-purple-100 hover:bg-white shadow" href="https://forms.gle/im32iAefanPqc7xh9" target="_blank">Feedback Form</a>
               </div>
             </form>
 
